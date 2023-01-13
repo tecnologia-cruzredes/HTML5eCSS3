@@ -1,0 +1,28 @@
+adcdefxFlex="
+
+binario 01
+
+numerico 0123456789
+
+hexadecimal 0123456789ABCDEF
+
+ RGB = : {Red, Green Blue"
+#- - - - - - 
+0 = AUSENCIA
+F = MAXIMO
+#000000 = BLACK 
+#FFFFFF = WHITE 
+
+RED 
+BLUE 
+YELLOW 
+
+RGB 0,1,2,3,...255
+
+0 = AUSENCIA
+255 = MAXIMO 
+
+RGB(255,255,255)
+Rgb(255,0,0)
+rGb(0,255,0)
+rgB(0,0,255)
